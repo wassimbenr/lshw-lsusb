@@ -1,0 +1,24 @@
+----------------------------------------------------------
+		Sujet 3 - Scripting
+			2A28
+	Wassim ben romdhane & Bacim oueslati
+----------------------------------------------------------
+Notre script vous permet d'afficher les caractéristiques
+hardware de votre machien via les commande lshw & lsusb
+
+Option			Fonction
+
+-x			lancer la commande lshw.
+-l			lancer la commande lsusb.
+-h			afficher le help.
+-g			afficher le menu graphique.
+-m			afficher le menu textuel.
+-s FICHIER		sauvegarder les informations les 
+			plus pertinentes dans un FICHIER.
+-v			afficher la version et les noms 
+			des auteurs.
+-o FICHIER		afficher les informations les plus
+			pertientes dans un FICHIER.
+-f MOT_CLE FICHIER	afficher les lignes contenant le 
+			MOT_CLE à partir d'un FICHIER.
+-----------------------------------------------------------
